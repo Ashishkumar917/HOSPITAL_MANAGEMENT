@@ -17,6 +17,12 @@ The project demonstrates real-world data analysis using **aggregations, window f
 ---
 
 ## 📂 Database Structure
+## 📸 Project Screenshot
+
+![Hospital Management System](https://github.com/Ashishkumar917/HOSPITAL_MANAGEMENT/blob/main/HOSPITAL_MANAGEMENT1.png)
+## 📸 Project Screenshot
+
+![Hospital Management System](https://github.com/Ashishkumar917/HOSPITAL_MANAGEMENT/blob/main/HOSPITAL_MANAGEMENT2.png)
 
 Main table used in the project:
 
