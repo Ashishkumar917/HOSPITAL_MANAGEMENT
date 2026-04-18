@@ -107,13 +107,6 @@ Example insight generated:
 
 ---
 
-## 📌 Future Improvements
-
-* Add more tables (Patients, Doctors, Billing)
-* Build frontend (Web/App)
-* Integrate dashboards (Power BI)
-
----
 
 ## 👨‍💻 Author
 
